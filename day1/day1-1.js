@@ -1,4 +1,4 @@
-const input = require("fs").readFileSync("day1/_day1-1.txt", "utf-8");
+const input = require("fs").readFileSync("day1/_input.txt", "utf-8");
 
 const [leftList, rightList] = input
     .trim()
